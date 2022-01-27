@@ -12,6 +12,7 @@ function App() {
           <a
             href="https://github.com/ArchiGen/weather-app-she-codes"
             target="_blank"
+            rel="noreferrer"
           >
             {" "}
             ArchiGen
