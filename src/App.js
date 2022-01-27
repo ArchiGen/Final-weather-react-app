@@ -1,25 +1,23 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Weather from "./Weather";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <Weather />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Weather />
+
+      <footer>
+        <small>
+          Open-source by
+          <a
+            href="https://github.com/ArchiGen/weather-app-she-codes"
+            target="_blank"
+          >
+            {" "}
+            ArchiGen
+          </a>
+        </small>
+      </footer>
     </div>
   );
 }
