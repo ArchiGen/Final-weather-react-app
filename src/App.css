@@ -8,5 +8,14 @@
   display: block;
   text-align: center;
   margin: 0 auto;
-  font-size: 11px;
+  font-size: 14px;
+}
+
+.App header {
+  display: block;
+  text-align: center;
+  margin: auto;
+  color: aliceblue;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }

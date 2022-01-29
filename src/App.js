@@ -4,6 +4,9 @@ import Weather from "./Weather";
 function App() {
   return (
     <div className="App">
+      <header>
+        <h1>Weather search app</h1>
+      </header>
       <Weather defaultCity="Paris" />
 
       <footer>
