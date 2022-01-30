@@ -13,7 +13,7 @@ function App() {
         <small>
           Open-source by
           <a
-            href="https://github.com/ArchiGen/weather-app-she-codes"
+            href="https://github.com/ArchiGen/Final-weather-react-app"
             target="_blank"
             rel="noreferrer"
           >

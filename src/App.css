@@ -19,3 +19,8 @@
   padding-top: 30px;
   padding-bottom: 20px;
 }
+
+.App a {
+  color: #2b6e61;
+  text-decoration: none;
+}
