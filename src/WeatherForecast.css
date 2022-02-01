@@ -16,11 +16,11 @@
   padding-top: 20px;
 }
 
-.WeatherForecast .ForecastTemp .max {
+.WeatherForecast .ForecastTemp .Max {
   font-weight: bold;
 }
 
-.WeatherForecast .ForecastTemp .min {
+.WeatherForecast .ForecastTemp .Min {
   opacity: 0.5;
   margin-left: 5px;
 }
