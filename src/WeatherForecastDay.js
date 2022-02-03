@@ -25,7 +25,11 @@ export default function WeatherForecastDay(props) {
       <ul>
         <li className="ForecastDay">{day()}</li>
         <li>
-          <WeatherIcon code={props.data.weather[0].icon} alt="icon temp" />
+          <WeatherIcon
+            code={props.data.weather[0].icon}
+            alt="icon temp"
+            color={"#ffffff"}
+          />
         </li>
         <li className="ForecastTemp">
           <span className="Max">{maxTemp()}/</span>

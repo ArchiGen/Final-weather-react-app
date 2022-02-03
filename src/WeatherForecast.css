@@ -10,6 +10,8 @@
 
 .WeatherForecast .ForecastDay {
   margin-top: 35px;
+  color: #ff79c6;
+  font-weight: bold;
 }
 
 .WeatherForecast .ForecastTemp {
@@ -21,6 +23,6 @@
 }
 
 .WeatherForecast .ForecastTemp .Min {
-  opacity: 0.5;
+  opacity: 0.6;
   margin-left: 5px;
 }
